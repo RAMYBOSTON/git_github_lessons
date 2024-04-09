@@ -1,5 +1,5 @@
 I have a local git repository from my project.  
-I commited some files to this local repository, now i want to commit my changesto github.com
+I committed some files to this local repository, now i want to commit my changesto github.com
 
 I created a github.com reposirity named git_github_lessons to share my project with my team. I uploaded the folder with the files for the project.
 I used github desktop to open the github.com repository.
@@ -24,5 +24,5 @@ Q3-A1 No Issues
 
 
 4. Are there any specific tasks you need assistance with related to this repository or your project?
-Q4-A1  What do i do next to share these changes with others? 
+Q4-A1  What do I do next to share these changes with others? 
 
